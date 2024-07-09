@@ -10,4 +10,4 @@
 
 ## Score
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/idkbreh/TyphoonX-Sample-Chat/blob/main/ThaiScore.png?raw=true)
